@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Peppbot
+- 👀 I’m interested in ...
+- 🌱 I’m currently learninng
